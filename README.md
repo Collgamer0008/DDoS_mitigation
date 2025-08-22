@@ -47,7 +47,7 @@ The framework consists of three main modules:
 
 ## ⚙️ Prerequisites  
 
-- **OS**: Ubuntu 20.04 / 22.04 (recommended)  
+- **OS**: Ubuntu 20.04 / 22.04 (recommended)  or any other Linux distro
 - **Python**: 3.8+  
 - **Dependencies**:  
   ```bash
