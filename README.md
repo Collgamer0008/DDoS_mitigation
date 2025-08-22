@@ -4,6 +4,10 @@ This project implements a **hybrid framework** for detecting and mitigating Dist
 
 It simulates both **malicious and legitimate clients**, interacting with a central **server** that monitors traffic, classifies behavior, and enforces adaptive defense strategies. 
 
+For a detailed explanation of the methodology, experimental setup, results, and analysis, please refer to the full project report:  
+
+[📄 View Full Report](https://drive.google.com/file/d/1uyjZ6bninXX-1dbh5wGn6oQwj1M6rJb9/view?usp=sharing)
+
 ## System Model  
 
 Below is the system model diagram that illustrates the architecture of the proposed framework.  
@@ -44,6 +48,8 @@ The framework consists of three main modules:
    - Ensures attackers waste resources, while legitimate clients face minimal overhead.
 
 ---
+
+
 
 ## ⚙️ Prerequisites  
 
