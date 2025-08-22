@@ -113,7 +113,10 @@ python3 client_malicious.py
 
 This section contains execution and result screenshots from the implementation.  
 
+When there is a normal traffic :
 ![Screenshot 1](Screenshots/normal_server_and_client.png)  
+
+when there is a DoS attack:
 ![Screenshot 2](Screenshots/attack_server_and_client.png)  
 
 
